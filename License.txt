@@ -1,0 +1,6 @@
+License:
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+You may not use this work for commercial purposes, and you may not modify or create derivative works of this work. 
+You may only share the work, provided that appropriate credit is given to the author.
